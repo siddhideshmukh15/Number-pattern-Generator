@@ -1,13 +1,11 @@
 # Number Pattern Generator
 
-A simple **Number Pattern Generator** built using Python. 
-This beginner-friendly project generates a number pattern based 
-on the number of rows entered by the user.
+A simple **Number Pattern Generator** built using Python. This beginner-friendly project generates an increasing number pattern based on the number of rows entered by the user.
 
 ## Features
 
 - Accepts the number of rows from the user
-- Generates number patterns
+- Generates an increasing number pattern
 - Uses nested loops
 - Displays numbers in a structured pattern
 - Simple and beginner-friendly
@@ -31,11 +29,11 @@ on the number of rows entered by the user.
 
 ## Future Improvements
 
-- Add different number patterns
+- Add more number patterns
+- Add repeated number patterns
 - Add star patterns
 - Add reverse patterns
 - Add pyramid patterns
-- Create a menu for selecting patterns
 
 ## Author
 
